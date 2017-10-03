@@ -14,7 +14,7 @@ facebook_url = "https://www.facebook.com/"
 friends_url_extension = "/friends"
 
 # TODO: auto-set this
-personal_profile_id = "david.elliott.106902"
+personal_profile_id = "profile_id_here"
 
 
 def facebook_login(driver, username, password):
