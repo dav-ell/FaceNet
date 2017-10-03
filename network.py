@@ -1,7 +1,7 @@
 import igraph as ig
 from utility import *
 
-personal_user_id = "davidelliott106902"
+personal_user_id = "user_id_here"
 
 network = ig.Graph(directed=True)
 print(network)
